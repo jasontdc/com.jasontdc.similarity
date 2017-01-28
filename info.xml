@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<extension key="com.jasontdc.similarity" type="module">
+  <file>similarity</file>
+  <name>A Better Contact Similarity Checker</name>
+  <description>A CiviCRM extension that replaces the existing similar contact check when creating new Individuals, and adds a similar contact check when creating new Households and Organizations.</description>
+  <license>MIT</license>
+  <maintainer>
+    <author>Jason Davies</author>
+    <email>jasontdc@gmail.com</email>
+  </maintainer>
+  <urls>
+    <url desc="Main Extension Page">https://github.com/jasontdc/com.jasontdc.similarity</url>
+    <url desc="Documentation">https://github.com/jasontdc/com.jasontdc.similarity/README.md</url>
+    <url desc="Support">https://github.com/jasontdc/com.jasontdc.similarity</url>
+    <url desc="Licensing">http://opensource.org/licenses/MIT</url>
+  </urls>
+  <releaseDate>2017-01-27</releaseDate>
+  <version>0.1</version>
+  <develStage>alpha</develStage>
+  <compatibility>
+    <ver>4.2</ver>
+  </compatibility>
+  <comments>This is a new, undeveloped module</comments>
+  <civix>
+    <namespace>CRM/Similarity</namespace>
+  </civix>
+</extension>
